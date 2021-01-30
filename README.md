@@ -4,7 +4,7 @@ A repository created to demo how to publish packages to npm.
 ## Install
 
 ```bash
-npm install react-tagsinput --save
+npm install @headstrait/math --save
 ```
 
 ## Example
