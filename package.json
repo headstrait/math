@@ -1,0 +1,20 @@
+{
+  "name": "@headstrait/math",
+  "version": "1.0.0",
+  "description": "Provides simple mathematical functions such as addition, subtraction, division and multiplication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "math",
+    "maths",
+    "calculations"
+  ],
+  "author": "Headstrait Software",
+  "license": "MIT",
+  "repository": "https://github.com/headstrait/math",
+  "bugs": "https://github.com/headstrait/math/issues",
+  "homepage": "https://headstrait.com/"
+}
