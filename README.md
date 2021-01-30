@@ -1,4 +1,5 @@
 # math
+
 A repository created to demo how to publish packages to npm.
 
 ## Install
@@ -11,9 +12,9 @@ npm install @headstrait/math --save
 
 ```javascript
 // Requiring the math package
-const math = require("@headstrait/math")
+const math = require("@headstrait/math");
 // Storing the result of the add function for params 1 and 4 in a var called addition
-const addition = math.add(1,4);
+const addition = math.add(1, 4);
 // logging the result to the console
-console.log(adition); // 5
+console.log(addition); // 5
 ```
